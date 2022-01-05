@@ -2,13 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca103884-d9eb-4a0e-9d9a-a8b4efd134d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/application-notebook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common/code_common.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common/req_common.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common/res_common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global/global.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helper/directory_helper.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log/rotatelogs_unix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log/zap_lib.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/viper/viper_lib.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servers/websocket/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servers/websocket/client_manager.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servers/websocket/login.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
