@@ -12,7 +12,7 @@ type Manager struct {
 	Users       map[string]*Client // 登录的用户 // appId+uuid
 	UserLock    sync.RWMutex       // 读写锁
 	Register    chan *Client       // 连接连接处理
-	Login       chan *login        // 用户登录处理
+	Login       chan *Login        // 用户登录处理
 	Unregister  chan *Client       // 断开连接处理程序
 	Broadcast   chan []byte        // 广播 向全部成员发送数据
 }
@@ -22,7 +22,7 @@ func NewManager() (manager *Manager) {
 		Clients:    make(map[*Client]bool),
 		Users:      make(map[string]*Client),
 		Register:   make(chan *Client, 1000),
-		Login:      make(chan *login, 1000),
+		Login:      make(chan *Login, 1000),
 		Unregister: make(chan *Client, 1000),
 		Broadcast:  make(chan []byte, 1000),
 	}
@@ -177,7 +177,7 @@ func (m *Manager) EventRegister(c *Client) {
 }
 
 // 用户登录
-func (m *Manager) EventLogin(l *login) {
+func (m *Manager) EventLogin(l *Login) {
 	c := l.Client
 	if m.InClient(c) {
 		key := l.GetKey()
@@ -216,20 +216,20 @@ func (m *Manager) start() {
 
 func GetManagerInfo(isDebug string) (managerInfo map[string]interface{}) {
 	managerInfo = make(map[string]interface{})
-	managerInfo["clientsLen"] = clientManager.GetClientsLen()        // 客户端连接数
-	managerInfo["userLen"] = clientManager.GetUsersLen()             // 登录用户数
-	managerInfo["chanRegisterLen"] = len(clientManager.Register)     // 未处理连接事件数
-	managerInfo["chanLoginLen"] = len(clientManager.Login)           // 未处理登录事件数
-	managerInfo["chanUnregisterLen"] = len(clientManager.Unregister) // 未处理退出登录事件数
-	managerInfo["chanBroadcastLen"] = len(clientManager.Broadcast)   // 未处理广播事件数
+	managerInfo["clientsLen"] = ClientManager.GetClientsLen()        // 客户端连接数
+	managerInfo["userLen"] = ClientManager.GetUsersLen()             // 登录用户数
+	managerInfo["chanRegisterLen"] = len(ClientManager.Register)     // 未处理连接事件数
+	managerInfo["chanLoginLen"] = len(ClientManager.Login)           // 未处理登录事件数
+	managerInfo["chanUnregisterLen"] = len(ClientManager.Unregister) // 未处理退出登录事件数
+	managerInfo["chanBroadcastLen"] = len(ClientManager.Broadcast)   // 未处理广播事件数
 
 	if isDebug == "true" {
 		addrList := make([]string, 0)
-		clientManager.ClientsRanage(func(c *Client, b bool) (result bool) {
+		ClientManager.ClientsRanage(func(c *Client, b bool) (result bool) {
 			addrList = append(addrList, c.Addr)
 			return true
 		})
-		users := clientManager.GetUserKeys()
+		users := ClientManager.GetUserKeys()
 		managerInfo["clients"] = addrList // 客户端列表
 		managerInfo["users"] = users      // 登录用户列表
 	}
@@ -238,13 +238,13 @@ func GetManagerInfo(isDebug string) (managerInfo map[string]interface{}) {
 
 // 获取用户所在的连接
 func GetUserClient(appId uint32, userId string) *Client {
-	return clientManager.GetUserClient(appId, userId)
+	return ClientManager.GetUserClient(appId, userId)
 }
 
 // 定时清理超时连接
 func ClearTimeoutConnections() {
 	currentTime := uint64(time.Now().Unix())
-	cs := clientManager.GetClients()
+	cs := ClientManager.GetClients()
 	for c := range cs {
 		if c.IsHeartbeatTimeout(currentTime) {
 			c.Socket.Close()
@@ -254,11 +254,11 @@ func ClearTimeoutConnections() {
 
 // 获取全部用户
 func GetUserList(appId uint32) (users []string) {
-	return clientManager.GetUserList(appId)
+	return ClientManager.GetUserList(appId)
 }
 
 // 全员广播
 func AllSendMessages(appId uint32, userId string, data string) {
-	ignoreClient := clientManager.GetUserClient(appId, userId)
-	clientManager.sendAppIdAll([]byte(data), appId, ignoreClient)
+	ignoreClient := ClientManager.GetUserClient(appId, userId)
+	ClientManager.sendAppIdAll([]byte(data), appId, ignoreClient)
 }

@@ -2,28 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca103884-d9eb-4a0e-9d9a-a8b4efd134d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/application-notebook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/code_common.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/req_common.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/res_common.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global/global.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helper/directory_helper.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log/rotatelogs_unix.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log/zap_lib.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/viper/viper_lib.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servers/websocket/client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servers/websocket/client_manager.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servers/websocket/login.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servers/ws/request.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servers/ws/response.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/application-notebook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/application-notebook.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/code_common.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/code_common.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/req_common.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/req_common.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/res_common.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/res_common.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/latest_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2022-01-04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2022-01-05.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/ws/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/servers/ws/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/ws/init.go" beforeDir="false" afterPath="$PROJECT_DIR$/servers/ws/init.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/ws/login.go" beforeDir="false" afterPath="$PROJECT_DIR$/servers/ws/login.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/ws/manager.go" beforeDir="false" afterPath="$PROJECT_DIR$/servers/ws/manager.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/ws/process.go" beforeDir="false" afterPath="$PROJECT_DIR$/servers/ws/process.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/ws/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/servers/ws/server.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +52,14 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -65,6 +69,21 @@
       <recent name="$PROJECT_DIR$/servers" />
       <recent name="$PROJECT_DIR$/core" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="application-notebook" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -80,5 +99,59 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="112" key="#Notifications" timestamp="1641974656801">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="112" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1641974656801" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1641975307968">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1641975307968" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.25.1440.817@0.25.1440.817" timestamp="1641974998867" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1641975307967">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1641975307967" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.25.1440.817@0.25.1440.817" timestamp="1641974998866" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1641975307966">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1641975307966" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.25.1440.817@0.25.1440.817" timestamp="1641974998862" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1641975307967">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1641975307967" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.25.1440.817@0.25.1440.817" timestamp="1641974998867" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1641975307970">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1641975307970" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.25.1440.817@0.25.1440.817" timestamp="1641975252120" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1641975307969">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1641975307969" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.25.1440.817@0.25.1440.817" timestamp="1641975252119" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1641975307968">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1641975307968" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.25.1440.817@0.25.1440.817" timestamp="1641975252118" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1641975307970">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1641975307970" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.25.1440.817@0.25.1440.817" timestamp="1641975252119" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1641974845420">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1641974845420" />
+    <state x="383" y="226" width="674" height="476" key="find.popup" timestamp="1641889036108">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="226" width="674" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1641889036108" />
   </component>
 </project>

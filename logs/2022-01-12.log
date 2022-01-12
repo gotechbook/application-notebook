@@ -1,0 +1,86 @@
+[application-notebook]2022/01/12 - 15:23:31.207	info	WebSocket 启动程序成功	{"data": "192.168.2.252:1089"}
+[application-notebook]2022/01/12 - 15:23:53.035	info	读取客户端数据 处理	{"data": "UElORw=="}
+[application-notebook]2022/01/12 - 15:23:53.035	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63371 - msg:PING"}
+[application-notebook]2022/01/12 - 15:23:53.035	error	ProcessData json Unmarshal	{"error": "invalid character 'P' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/12 - 15:23:54.036	info	读取客户端数据 处理	{"data": "UElORw=="}
+[application-notebook]2022/01/12 - 15:23:54.036	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63371 - msg:PING"}
+[application-notebook]2022/01/12 - 15:23:54.036	error	ProcessData json Unmarshal	{"error": "invalid character 'P' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/12 - 15:25:32.273	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 15:25:32.273	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63371 - msg:{\n  \"seq\": \"1640607899747-281058\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 15:25:32.273	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:63371"}
+[application-notebook]2022/01/12 - 15:25:32.273	error	ProcessData getHandlers 路由不存在	{"data": "cmd:login - addr:127.0.0.1:63371"}
+[application-notebook]2022/01/12 - 15:25:32.273	info	ProcessData send	{"data": "cmd:login - addr:127.0.0.1:63371--appId:0 - userId: - code:1010"}
+[application-notebook]2022/01/12 - 15:26:18.804	info	WebSocket 启动程序成功	{"data": "192.168.2.252:1089"}
+[application-notebook]2022/01/12 - 15:26:22.802	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 15:26:22.802	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63762 - msg:{\n  \"seq\": \"1640607899747-281058\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 15:26:22.803	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:63762"}
+[application-notebook]2022/01/12 - 15:26:22.804	error	ProcessData 处理数据	{"data": "runtime error: invalid memory address or nil pointer dereference"}
+[application-notebook]2022/01/12 - 15:26:34.672	info	读取客户端数据 处理	{"data": "UElORw=="}
+[application-notebook]2022/01/12 - 15:26:34.672	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63762 - msg:PING"}
+[application-notebook]2022/01/12 - 15:26:34.673	error	ProcessData json Unmarshal	{"error": "invalid character 'P' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/12 - 15:26:35.673	info	读取客户端数据 处理	{"data": "UElORw=="}
+[application-notebook]2022/01/12 - 15:26:35.673	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63762 - msg:PING"}
+[application-notebook]2022/01/12 - 15:26:35.673	error	ProcessData json Unmarshal	{"error": "invalid character 'P' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/12 - 15:26:36.713	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 15:26:36.713	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63762 - msg:{\n  \"seq\": \"1640607899747-281058\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 15:26:36.713	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:63762"}
+[application-notebook]2022/01/12 - 15:26:36.713	error	LoginController 用户已经登录	{"data": "1640607899747-281058"}
+[application-notebook]2022/01/12 - 15:26:36.713	info	ProcessData send	{"data": "cmd:login - addr:127.0.0.1:63762--appId:101 - userId:0x44bf852dc84583594dd415355aae254a5b3a0410 - code:1004"}
+[application-notebook]2022/01/12 - 15:26:53.258	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 15:26:53.259	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63762 - msg:{\n  \"seq\": \"1640607899747-281058\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 15:26:53.259	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:63762"}
+[application-notebook]2022/01/12 - 15:26:53.259	error	LoginController 用户已经登录	{"data": "1640607899747-281058"}
+[application-notebook]2022/01/12 - 15:26:53.259	info	ProcessData send	{"data": "cmd:login - addr:127.0.0.1:63762--appId:101 - userId:0x44bf852dc84583594dd415355aae254a5b3a0410 - code:1004"}
+[application-notebook]2022/01/12 - 15:27:42.267	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 15:27:42.267	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63762 - msg:{\n  \"seq\": \"1640607899747-281058\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 15:27:42.267	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:63762"}
+[application-notebook]2022/01/12 - 15:27:42.267	error	LoginController 用户已经登录	{"data": "1640607899747-281058"}
+[application-notebook]2022/01/12 - 15:27:42.267	info	ProcessData send	{"data": "cmd:login - addr:127.0.0.1:63762--appId:101 - userId:0x44bf852dc84583594dd415355aae254a5b3a0410 - code:1004"}
+[application-notebook]2022/01/12 - 15:27:47.741	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwMTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 15:27:47.742	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63762 - msg:{\n  \"seq\": \"1640607899747-281018\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 15:27:47.742	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:63762"}
+[application-notebook]2022/01/12 - 15:27:47.742	error	LoginController 用户已经登录	{"data": "1640607899747-281018"}
+[application-notebook]2022/01/12 - 15:27:47.742	info	ProcessData send	{"data": "cmd:login - addr:127.0.0.1:63762--appId:101 - userId:0x44bf852dc84583594dd415355aae254a5b3a0410 - code:1004"}
+[application-notebook]2022/01/12 - 15:27:55.388	error	读取客户端数据 错误	{"error": "websocket: close 1000 (normal): Active closure of the user", "data": ""}
+[application-notebook]2022/01/12 - 15:27:55.388	error	读取客户端数据 关闭send	{"data": "Z29yb3V0aW5lIDIyIFtydW5uaW5nXToKcnVudGltZS9kZWJ1Zy5TdGFjaygweDFhLCAweDAsIDB4MCkKCS91c3IvbG9jYWwvZ28vc3JjL3J1bnRpbWUvZGVidWcvc3RhY2suZ286MjQgKzB4OWYKZ2l0aHViLmNvbS9nb3RlY2hib29rL2FwcGxpY2F0aW9uLW5vdGVib29rL3NlcnZlcnMvd3MuKCpDbGllbnQpLnJlYWQuZnVuYzIoMHhjMDAwMGMxNjgwKQoJL1VzZXJzL2JvcGVuZy9jb2RlL2dvdGVjaGJvb2svYXBwbGljYXRpb24tbm90ZWJvb2svc2VydmVycy93cy9jbGllbnQuZ286NTAgKzB4MjUKZ2l0aHViLmNvbS9nb3RlY2hib29rL2FwcGxpY2F0aW9uLW5vdGVib29rL3NlcnZlcnMvd3MuKCpDbGllbnQpLnJlYWQoMHhjMDAwMGMxNjgwKQoJL1VzZXJzL2JvcGVuZy9jb2RlL2dvdGVjaGJvb2svYXBwbGljYXRpb24tbm90ZWJvb2svc2VydmVycy93cy9jbGllbnQuZ286NTcgKzB4MTliCmNyZWF0ZWQgYnkgZ2l0aHViLmNvbS9nb3RlY2hib29rL2FwcGxpY2F0aW9uLW5vdGVib29rL3NlcnZlcnMvd3Mud3NQYWdlCgkvVXNlcnMvYm9wZW5nL2NvZGUvZ290ZWNoYm9vay9hcHBsaWNhdGlvbi1ub3RlYm9vay9zZXJ2ZXJzL3dzL2luaXQuZ286ODEgKzB4MmM3Cg=="}
+[application-notebook]2022/01/12 - 15:27:55.390	info	Client发送数据 关闭连接	{"data": "127.0.0.1:63762"}
+[application-notebook]2022/01/12 - 15:28:02.144	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwMTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 15:28:02.146	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63935 - msg:{\n  \"seq\": \"1640607899747-281018\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 15:28:02.146	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:63935"}
+[application-notebook]2022/01/12 - 15:28:02.146	error	ProcessData 处理数据	{"data": "runtime error: invalid memory address or nil pointer dereference"}
+[application-notebook]2022/01/12 - 15:36:43.937	info	WebSocket 启动程序成功	{"data": "192.168.2.252:1089"}
+[application-notebook]2022/01/12 - 15:37:16.985	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwMTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 15:37:16.985	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:64726 - msg:{\n  \"seq\": \"1640607899747-281018\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 15:37:16.985	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:64726"}
+[application-notebook]2022/01/12 - 15:37:51.314	info	WebSocket 启动程序成功	{"data": "192.168.2.252:1089"}
+[application-notebook]2022/01/12 - 15:37:54.960	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwMTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 15:37:54.960	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:64809 - msg:{\n  \"seq\": \"1640607899747-281018\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 15:37:54.960	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:64809"}
+[application-notebook]2022/01/12 - 15:37:54.960	error	ProcessData 处理数据	{"data": "runtime error: invalid memory address or nil pointer dereference"}
+[application-notebook]2022/01/12 - 15:39:08.995	info	WebSocket 启动程序成功	{"data": "192.168.2.252:1089"}
+[application-notebook]2022/01/12 - 15:39:15.308	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwMTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 15:39:15.308	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:64981 - msg:{\n  \"seq\": \"1640607899747-281018\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 15:39:15.309	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:64981"}
+[application-notebook]2022/01/12 - 15:39:15.309	error	ProcessData recover	{"data": "runtime error: invalid memory address or nil pointer dereference"}
+[application-notebook]2022/01/12 - 15:41:01.001	error	读取客户端数据 错误	{"error": "websocket: close 1000 (normal): Active closure of the user", "data": ""}
+[application-notebook]2022/01/12 - 15:41:01.002	error	读取客户端数据 关闭send	{"data": "Z29yb3V0aW5lIDUyIFtydW5uaW5nXToKcnVudGltZS9kZWJ1Zy5TdGFjaygweDFhLCAweDAsIDB4MCkKCS91c3IvbG9jYWwvZ28vc3JjL3J1bnRpbWUvZGVidWcvc3RhY2suZ286MjQgKzB4OWYKZ2l0aHViLmNvbS9nb3RlY2hib29rL2FwcGxpY2F0aW9uLW5vdGVib29rL3NlcnZlcnMvd3MuKCpDbGllbnQpLnJlYWQuZnVuYzIoMHhjMDAwNDAwMjQwKQoJL1VzZXJzL2JvcGVuZy9jb2RlL2dvdGVjaGJvb2svYXBwbGljYXRpb24tbm90ZWJvb2svc2VydmVycy93cy9jbGllbnQuZ286NTAgKzB4MjUKZ2l0aHViLmNvbS9nb3RlY2hib29rL2FwcGxpY2F0aW9uLW5vdGVib29rL3NlcnZlcnMvd3MuKCpDbGllbnQpLnJlYWQoMHhjMDAwNDAwMjQwKQoJL1VzZXJzL2JvcGVuZy9jb2RlL2dvdGVjaGJvb2svYXBwbGljYXRpb24tbm90ZWJvb2svc2VydmVycy93cy9jbGllbnQuZ286NTcgKzB4MTliCmNyZWF0ZWQgYnkgZ2l0aHViLmNvbS9nb3RlY2hib29rL2FwcGxpY2F0aW9uLW5vdGVib29rL3NlcnZlcnMvd3Mud3NQYWdlCgkvVXNlcnMvYm9wZW5nL2NvZGUvZ290ZWNoYm9vay9hcHBsaWNhdGlvbi1ub3RlYm9vay9zZXJ2ZXJzL3dzL2luaXQuZ286ODEgKzB4MmM3Cg=="}
+[application-notebook]2022/01/12 - 15:41:01.002	info	Client发送数据 关闭连接	{"data": "127.0.0.1:64981"}
+[application-notebook]2022/01/12 - 16:07:57.024	info	WebSocket 启动程序成功	{"data": "192.168.2.252:1089"}
+[application-notebook]2022/01/12 - 16:09:13.238	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 16:09:13.239	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:53050 - msg:{\n  \"seq\": \"1640607899747-281058\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 16:09:13.240	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:53050"}
+[application-notebook]2022/01/12 - 16:10:00.135	info	WebSocket 启动程序成功	{"data": "192.168.2.252:1089"}
+[application-notebook]2022/01/12 - 16:10:01.741	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 16:10:01.741	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:53370 - msg:{\n  \"seq\": \"1640607899747-281058\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 16:10:01.742	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:53370"}
+[application-notebook]2022/01/12 - 16:12:07.258	info	WebSocket 启动程序成功	{"data": "192.168.2.252:1089"}
+[application-notebook]2022/01/12 - 16:12:12.190	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 16:12:12.191	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:53601 - msg:{\n  \"seq\": \"1640607899747-281058\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 16:12:12.192	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:53601"}
+[application-notebook]2022/01/12 - 16:14:04.653	info	redis init success	{"data": null}
+[application-notebook]2022/01/12 - 16:14:04.655	info	WebSocket 启动程序成功	{"data": "192.168.2.252:1089"}
+[application-notebook]2022/01/12 - 16:14:11.939	info	读取客户端数据 处理	{"data": "ewogICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLAogICJjbWQiOiAibG9naW4iLAogICJkYXRhIjogewogICAgInVzZXJJZCI6ICIweDQ0QkY4NTJEQzg0NTgzNTk0REQ0MTUzNTVBYUUyNTRBNUIzQTA0MTAiLAogICAgImFwcElkIjogMTAxCiAgfQp9"}
+[application-notebook]2022/01/12 - 16:14:11.940	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:53937 - msg:{\n  \"seq\": \"1640607899747-281058\",\n  \"cmd\": \"login\",\n  \"data\": {\n    \"userId\": \"0x44BF852DC84583594DD415355AaE254A5B3A0410\",\n    \"appId\": 101\n  }\n}"}
+[application-notebook]2022/01/12 - 16:14:11.941	info	ProcessData req	{"data": "cmd:login - addr:127.0.0.1:53937"}
+[application-notebook]2022/01/12 - 16:14:15.387	info	LoginController 用户登录 成功	{"data": "seq:1640607899747-281058 - addr:127.0.0.1:53937 - userId:0x44BF852DC84583594DD415355AaE254A5B3A0410"}
+[application-notebook]2022/01/12 - 16:14:15.396	info	ProcessData send	{"data": "cmd:login - addr:127.0.0.1:53937--appId:101 - userId:0x44bf852dc84583594dd415355aae254a5b3a0410 - code:200"}

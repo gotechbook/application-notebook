@@ -10,6 +10,13 @@ zap:
   director: logs
   link-name: latest_log
   showLine: false
-  encode-level: LowercaseColorLevelEncoder
+  encode-level: LowercaseLevelEncoder
   stacktrace-key: stacktrace
   log-in-console: true
+
+redis:
+  addr: localhost:6379
+  password: ""
+  db: 0
+  poolSize: 30
+  minIdleConns: 30

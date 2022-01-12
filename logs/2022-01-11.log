@@ -1,0 +1,1125 @@
+[application-notebook]2022/01/11 - 16:30:53.428	info	WebSocket 启动程序成功	{"data": "192.168.2.252:1089"}
+[application-notebook]2022/01/11 - 16:52:42.709	info	WebSocket 启动程序成功	{"data": "192.168.2.252:1089"}
+[application-notebook]2022/01/11 - 16:52:54.466	info	读取客户端数据 处理	{"data": "UElORw=="}
+[application-notebook]2022/01/11 - 16:52:54.466	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:PING"}
+[application-notebook]2022/01/11 - 16:52:54.466	error	ProcessData json Unmarshal	{"error": "invalid character 'P' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:52:55.471	info	读取客户端数据 处理	{"data": "UElORw=="}
+[application-notebook]2022/01/11 - 16:52:55.471	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:PING"}
+[application-notebook]2022/01/11 - 16:52:55.471	error	ProcessData json Unmarshal	{"error": "invalid character 'P' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:52:56.467	info	读取客户端数据 处理	{"data": "UElORw=="}
+[application-notebook]2022/01/11 - 16:52:56.467	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:PING"}
+[application-notebook]2022/01/11 - 16:52:56.467	error	ProcessData json Unmarshal	{"error": "invalid character 'P' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:52:57.466	info	读取客户端数据 处理	{"data": "UElORw=="}
+[application-notebook]2022/01/11 - 16:52:57.466	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:PING"}
+[application-notebook]2022/01/11 - 16:52:57.466	error	ProcessData json Unmarshal	{"error": "invalid character 'P' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:52:58.468	info	读取客户端数据 处理	{"data": "UElORw=="}
+[application-notebook]2022/01/11 - 16:52:58.468	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:PING"}
+[application-notebook]2022/01/11 - 16:52:58.468	error	ProcessData json Unmarshal	{"error": "invalid character 'P' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:52:59.467	info	读取客户端数据 处理	{"data": "cGluZw=="}
+[application-notebook]2022/01/11 - 16:52:59.467	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:ping"}
+[application-notebook]2022/01/11 - 16:52:59.467	error	ProcessData json Unmarshal	{"error": "invalid character 'p' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:53:02.178	info	读取客户端数据 处理	{"data": "cGluZw=="}
+[application-notebook]2022/01/11 - 16:53:02.178	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:ping"}
+[application-notebook]2022/01/11 - 16:53:02.180	error	ProcessData json Unmarshal	{"error": "invalid character 'p' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:53:03.182	info	读取客户端数据 处理	{"data": "cGluZw=="}
+[application-notebook]2022/01/11 - 16:53:03.182	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:ping"}
+[application-notebook]2022/01/11 - 16:53:03.182	error	ProcessData json Unmarshal	{"error": "invalid character 'p' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:53:04.178	info	读取客户端数据 处理	{"data": "cGluZw=="}
+[application-notebook]2022/01/11 - 16:53:04.178	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:ping"}
+[application-notebook]2022/01/11 - 16:53:04.178	error	ProcessData json Unmarshal	{"error": "invalid character 'p' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:53:05.180	info	读取客户端数据 处理	{"data": "cGluZw=="}
+[application-notebook]2022/01/11 - 16:53:05.180	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:ping"}
+[application-notebook]2022/01/11 - 16:53:05.180	error	ProcessData json Unmarshal	{"error": "invalid character 'p' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:53:06.179	info	读取客户端数据 处理	{"data": "cGluZw=="}
+[application-notebook]2022/01/11 - 16:53:06.179	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:ping"}
+[application-notebook]2022/01/11 - 16:53:06.179	error	ProcessData json Unmarshal	{"error": "invalid character 'p' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:53:07.181	info	读取客户端数据 处理	{"data": "cGluZw=="}
+[application-notebook]2022/01/11 - 16:53:07.181	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:ping"}
+[application-notebook]2022/01/11 - 16:53:07.181	error	ProcessData json Unmarshal	{"error": "invalid character 'p' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:53:08.178	info	读取客户端数据 处理	{"data": "cGluZw=="}
+[application-notebook]2022/01/11 - 16:53:08.178	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:ping"}
+[application-notebook]2022/01/11 - 16:53:08.178	error	ProcessData json Unmarshal	{"error": "invalid character 'p' looking for beginning of value", "data": "数据不合法"}
+[application-notebook]2022/01/11 - 16:54:05.202	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:05.202	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:05.202	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:05.202	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:05.205	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:06.205	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:06.206	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:06.206	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:06.206	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:06.206	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:07.205	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:07.206	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:07.206	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:07.206	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:07.206	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:08.201	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:08.202	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:08.202	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:08.202	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:08.202	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:09.204	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:09.204	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:09.204	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:09.204	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:09.204	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:10.202	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:10.203	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:10.203	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:10.203	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:10.203	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:11.201	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:11.201	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:11.201	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:11.201	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:11.202	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:12.203	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:12.204	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:12.204	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:12.204	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:12.204	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:13.203	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:13.203	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:13.203	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:13.204	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:13.204	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:14.203	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:14.203	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:14.203	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:14.204	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:14.204	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:15.201	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:15.202	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:15.202	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:15.202	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:15.202	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:16.205	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:16.205	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:16.205	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:16.206	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:16.206	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:17.204	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:17.205	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:17.206	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:17.206	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:17.206	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:18.205	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:18.205	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:18.205	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:18.205	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:18.205	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:19.206	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:19.206	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:19.206	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:19.206	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:19.206	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:20.207	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:20.207	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:20.207	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:20.207	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:20.207	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:21.206	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:21.206	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:21.206	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:21.206	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:21.206	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:22.202	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:22.203	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:22.203	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:22.203	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:22.203	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:23.201	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:23.201	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:23.201	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:23.202	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:23.202	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:24.205	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:24.205	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:24.205	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:24.205	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:24.205	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:25.203	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:25.203	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:25.203	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:25.203	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:25.203	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:26.205	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:26.205	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:26.205	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:26.205	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:26.205	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:27.202	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:27.202	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:27.202	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:27.202	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:27.202	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:28.201	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:28.202	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:28.202	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:28.202	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:28.202	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:29.214	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:29.214	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:29.214	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:29.214	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:29.214	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:30.205	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:30.205	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:30.205	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:30.205	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:30.205	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:31.202	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:31.202	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:31.203	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:31.203	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:31.203	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:32.205	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:32.206	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:32.206	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:32.206	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:32.206	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:33.975	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:33.975	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:33.979	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:33.979	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:33.979	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:35.179	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:35.179	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:35.179	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:35.179	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:35.179	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:35.800	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:35.800	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:35.801	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:35.801	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:35.801	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:36.205	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:36.205	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:36.205	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:36.205	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:36.205	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:38.046	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:38.046	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:38.046	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:38.047	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:38.047	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:39.344	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:39.344	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:39.344	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:39.344	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:39.344	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:41.686	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:41.686	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:41.687	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:41.687	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:41.687	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:43.308	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:43.308	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:43.308	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:43.308	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:43.309	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:45.702	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:45.702	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:45.702	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:45.702	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:45.702	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:47.017	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:47.017	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:47.017	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:47.017	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:47.017	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:48.357	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:48.357	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:48.357	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:48.357	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:48.357	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:50.693	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:50.693	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:50.693	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:50.693	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:50.693	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:52.426	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:52.426	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:52.426	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:52.426	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:52.426	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:54.663	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:54.663	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:54.664	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:54.664	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:54.664	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:56.353	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:56.353	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:56.353	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:56.353	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:56.354	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:57.976	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:57.976	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:57.976	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:57.976	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:57.976	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:54:59.379	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:54:59.379	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:54:59.379	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:54:59.379	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:54:59.380	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:01.683	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:01.683	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:01.683	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:01.683	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:01.683	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:03.507	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:03.507	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:03.508	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:03.508	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:03.508	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:05.578	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:05.578	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:05.579	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:05.579	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:05.579	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:07.583	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:07.584	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:07.584	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:07.584	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:07.584	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:09.516	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:09.517	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:09.517	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:09.517	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:09.517	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:11.631	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:11.632	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:11.632	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:11.632	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:11.632	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:13.527	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:13.528	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:13.528	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:13.528	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:13.528	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:15.587	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:15.587	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:15.587	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:15.587	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:15.587	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:17.480	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:17.480	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:17.481	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:17.482	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:17.482	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:19.599	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:19.601	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:19.601	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:19.601	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:19.601	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:21.415	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:21.417	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:21.417	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:21.417	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:21.417	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:23.079	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:23.080	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:23.080	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:23.080	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:23.080	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:24.321	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:24.323	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:24.323	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:24.323	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:24.323	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:26.355	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:26.355	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:26.355	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:26.355	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:26.355	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:28.683	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:28.683	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:28.683	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:28.683	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:28.683	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:30.457	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:30.457	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:30.457	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:30.457	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:30.457	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:31.997	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:31.997	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:31.998	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:31.998	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:31.998	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:33.281	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:33.281	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:33.281	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:33.282	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:33.282	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:35.701	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:35.701	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:35.702	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:35.702	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:35.702	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:37.518	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:37.519	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:37.519	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:37.519	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:37.519	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:39.467	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:39.467	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:39.467	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:39.467	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:39.467	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:41.630	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:41.630	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:41.631	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:41.631	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:41.631	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:42.988	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:42.991	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:42.991	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:42.991	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:42.991	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:44.172	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:44.173	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:44.173	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:44.173	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:44.173	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:45.229	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:45.229	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:45.229	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:45.229	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:45.229	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:46.991	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:46.991	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:46.991	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:46.991	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:46.991	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:57.935	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:57.935	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:57.935	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:57.935	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:57.935	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:58.697	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:58.697	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:58.697	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:58.697	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:58.697	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:55:59.207	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:55:59.208	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:55:59.208	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:55:59.209	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:55:59.209	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:56:00.449	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:56:00.449	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:56:00.449	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:56:00.449	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:56:00.449	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:56:01.210	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:56:01.211	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:56:01.211	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:56:01.211	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:56:01.212	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:56:03.181	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:56:03.181	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:56:03.181	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:56:03.182	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:56:03.182	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:56:04.250	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:56:04.250	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:56:04.250	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:56:04.250	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:56:04.250	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:56:06.621	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:56:06.621	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:56:06.621	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:56:06.621	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:56:06.622	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:56:08.515	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:56:08.515	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:56:08.515	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:56:08.515	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:56:08.515	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:56:10.582	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:56:10.582	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:56:10.582	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:56:10.582	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:56:10.582	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:56:25.235	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:56:25.236	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:56:25.236	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:56:25.236	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:56:25.236	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:56:39.584	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:56:39.586	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:56:39.586	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:56:39.586	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:56:39.586	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:56:55.512	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:56:55.513	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:56:55.513	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:56:55.513	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:56:55.513	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:57:08.724	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:57:08.725	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:57:08.726	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:57:08.726	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:57:08.726	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:57:21.183	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:57:21.185	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:57:21.185	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:57:21.185	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:57:21.185	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:57:33.857	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:57:33.864	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:57:33.864	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:57:33.867	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:57:33.867	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:08.087	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:08.089	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:08.089	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:08.089	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:08.089	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:08.492	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:08.492	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:08.493	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:08.493	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:08.493	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:09.241	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:09.241	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:09.241	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:09.241	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:09.242	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:10.211	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:10.211	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:10.212	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:10.212	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:10.212	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:11.208	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:11.210	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:11.210	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:11.210	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:11.210	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:12.984	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:12.984	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:12.984	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:12.984	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:12.984	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:14.097	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:14.097	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:14.097	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:14.097	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:14.097	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:14.441	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:14.441	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:14.441	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:14.441	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:14.441	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:15.211	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:15.213	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:15.213	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:15.213	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:15.213	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:17.161	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:17.161	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:17.162	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:17.162	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:17.162	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:17.988	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:17.988	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:17.988	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:17.988	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:17.989	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:19.299	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:19.299	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:19.299	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:19.299	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:19.299	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:21.654	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:21.655	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:21.663	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:21.663	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:21.663	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:23.454	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:23.454	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:23.454	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:23.454	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:23.455	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:25.569	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:25.571	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:25.571	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:25.571	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:25.571	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:29.838	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:29.839	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:29.839	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:29.839	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:29.839	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:30.209	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:30.209	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:30.209	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:30.209	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:30.210	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:32.368	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:32.368	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:32.368	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:32.368	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:32.368	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:34.371	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:34.372	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:34.372	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:34.372	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:34.372	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:35.213	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:35.213	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:35.213	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:35.213	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:35.213	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:37.158	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:37.158	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:37.158	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:37.158	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:37.158	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:38.013	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:38.014	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:38.014	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:38.014	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:38.014	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:39.271	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:39.272	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:39.272	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:39.272	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:39.272	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:41.598	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:41.599	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:41.599	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:41.599	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:41.599	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:43.303	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:43.303	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:43.303	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:43.304	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:43.304	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:58:45.147	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:58:45.148	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:58:45.150	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:58:45.150	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:58:45.150	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:25.855	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:25.855	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:25.855	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:25.855	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:25.856	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:32.590	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:32.591	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:32.591	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:32.591	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:32.591	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:33.211	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:33.212	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:33.212	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:33.212	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:33.212	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:35.409	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:35.409	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:35.409	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:35.409	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:35.409	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:37.050	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:37.050	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:37.050	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:37.050	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:37.050	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:38.025	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:38.025	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:38.026	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:38.026	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:38.026	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:39.042	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:39.042	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:39.042	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:39.042	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:39.042	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:40.179	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:40.179	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:40.180	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:40.180	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:40.180	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:41.018	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:41.020	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:41.020	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:41.020	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:41.021	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:42.319	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:42.320	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:42.320	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:42.320	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:42.320	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:44.119	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:44.119	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:44.120	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:44.120	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:44.120	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:44.631	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:44.631	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:44.631	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:44.631	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:44.631	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:45.211	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:45.211	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:45.211	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:45.211	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:45.211	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:46.215	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:46.215	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:46.215	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:46.215	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:46.215	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:47.216	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:47.216	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:47.217	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:47.217	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:47.224	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:48.212	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:48.213	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:48.213	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:48.213	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:48.213	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:49.215	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:49.216	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:49.218	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:49.218	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:49.219	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 16:59:50.211	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 16:59:50.212	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:54885--msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 16:59:50.212	info	ProcessData req	{"data": "cmd:ping--addr:127.0.0.1:54885"}
+[application-notebook]2022/01/11 - 16:59:50.212	info	PingController	{"data": "addr:127.0.0.1:54885 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 16:59:50.212	info	ProcessData send	{"data": "cmd:ping--addr:127.0.0.1:54885--appId:0--userId:--code:200"}
+[application-notebook]2022/01/11 - 17:46:32.749	info	WebSocket 启动程序成功	{"data": "192.168.2.252:1089"}
+[application-notebook]2022/01/11 - 17:46:39.435	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:39.436	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:39.436	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:39.436	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:39.436	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:40.430	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:40.430	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:40.431	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:40.431	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:40.431	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:42.144	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:42.144	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:42.145	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:42.145	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:42.145	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:43.141	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:43.141	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:43.141	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:43.141	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:43.141	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:44.143	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:44.144	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:44.144	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:44.144	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:44.144	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:45.171	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:45.171	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:45.171	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:45.171	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:45.171	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:46.110	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:46.110	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:46.110	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:46.110	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:46.110	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:47.230	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:47.230	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:47.230	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:47.230	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:47.230	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:48.216	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:48.217	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:48.217	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:48.217	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:48.217	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:49.172	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:49.172	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:49.172	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:49.172	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:49.172	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:50.073	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:50.073	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:50.073	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:50.073	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:50.073	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:51.294	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:51.294	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:51.294	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:51.294	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:51.294	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:52.215	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:52.215	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:52.215	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:52.215	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:52.216	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:53.172	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:53.172	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:53.172	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:53.172	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:53.172	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:54.145	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:54.146	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:54.146	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:54.146	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:54.146	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:55.177	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:55.177	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:55.177	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:55.177	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:55.177	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:56.145	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:56.145	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:56.145	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:56.146	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:56.146	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:57.101	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:57.102	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:57.102	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:57.102	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:57.102	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:58.112	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:58.113	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:58.113	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:58.113	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:58.113	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:46:59.195	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:46:59.195	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:46:59.195	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:46:59.195	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:46:59.195	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:47:00.184	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:47:00.184	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:47:00.184	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:47:00.184	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:47:00.184	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:47:01.187	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:47:01.191	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:47:01.191	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:47:01.191	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:47:01.191	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:47:18.687	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:47:18.688	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:47:18.688	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:47:18.688	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:47:18.688	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:48:11.266	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:48:11.266	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:48:11.266	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:48:11.266	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:48:11.266	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:48:35.586	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:48:35.586	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:48:35.586	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:48:35.586	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:48:35.586	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:49:02.705	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:49:02.706	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:49:02.707	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:49:02.707	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:49:02.707	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:49:49.662	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:49:49.662	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:49:49.662	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:49:49.663	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:49:49.663	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:49:50.482	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:49:50.482	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:49:50.482	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:49:50.482	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:49:50.482	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:49:52.493	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:49:52.493	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:49:52.493	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:49:52.493	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:49:52.493	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:49:54.480	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:49:54.481	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:49:54.481	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:49:54.481	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:49:54.481	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:49:55.438	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:49:55.438	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:49:55.438	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:49:55.438	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:49:55.438	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:49:57.484	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:49:57.484	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:49:57.484	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:49:57.484	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:49:57.484	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:49:59.077	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:49:59.078	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:49:59.078	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:49:59.078	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:49:59.078	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:00.079	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:00.079	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:00.079	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:00.079	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:00.079	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:01.213	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:01.213	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:01.213	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:01.213	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:01.213	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:02.189	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:02.189	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:02.189	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:02.189	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:02.189	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:03.187	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:03.187	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:03.188	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:03.188	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:03.188	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:04.244	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:04.244	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:04.245	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:04.245	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:04.245	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:05.626	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:05.626	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:05.627	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:05.627	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:05.627	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:07.075	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:07.075	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:07.075	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:07.075	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:07.075	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:08.226	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:08.226	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:08.226	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:08.226	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:08.226	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:16.442	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:16.442	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:16.442	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:16.442	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:16.442	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:17.233	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:17.234	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:17.234	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:17.234	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:17.234	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:17.896	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:17.896	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:17.896	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:17.896	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:17.896	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:19.122	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:19.122	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:19.126	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:19.126	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:19.126	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:20.144	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:20.144	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:20.144	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:20.144	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:20.144	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:21.107	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:21.107	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:21.108	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:21.108	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:21.108	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:22.108	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:22.108	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:22.109	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:22.109	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:22.109	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:23.136	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:23.136	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:23.136	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:23.136	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:23.137	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:24.121	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:24.121	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:24.121	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:24.121	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:24.121	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:25.134	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:25.135	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:25.135	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:25.135	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:25.135	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:26.187	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:26.187	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:26.187	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:26.187	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:26.188	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:27.139	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:27.140	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:27.140	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:27.140	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:27.140	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:27.890	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:27.908	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:27.908	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:27.908	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:27.908	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:29.738	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:29.738	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:29.738	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:29.738	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:29.738	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:31.379	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:31.379	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:31.379	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:31.379	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:31.380	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:32.080	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:32.080	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:32.080	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:32.080	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:32.080	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:33.206	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:33.206	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:33.207	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:33.207	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:33.207	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:34.178	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:34.179	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:34.179	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:34.179	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:34.179	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:35.078	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:35.079	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:35.079	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:35.079	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:35.079	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:36.202	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:36.202	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:36.202	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:36.202	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:36.202	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:37.079	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:37.079	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:37.079	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:37.079	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:37.079	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:38.179	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:38.180	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:38.180	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:38.180	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:38.180	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:50:39.175	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:50:39.175	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:50:39.175	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:50:39.175	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:50:39.175	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:51:32.761	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:51:32.763	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:51:32.764	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:51:32.764	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:51:32.764	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:52:15.398	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:52:15.400	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:52:15.400	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:52:15.400	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:52:15.400	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:52:52.651	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:52:52.651	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:52:52.651	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:52:52.661	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:52:52.661	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:22.261	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:22.261	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:22.262	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:22.262	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:22.262	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:23.196	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:23.198	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:23.198	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:23.198	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:23.198	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:24.208	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:24.208	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:24.209	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:24.209	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:24.209	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:25.130	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:25.131	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:25.131	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:25.131	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:25.131	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:26.921	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:26.921	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:26.921	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:26.921	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:26.921	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:28.493	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:28.493	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:28.493	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:28.493	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:28.493	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:30.365	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:30.366	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:30.366	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:30.366	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:30.366	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:31.322	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:31.322	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:31.322	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:31.322	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:31.322	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:32.200	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:32.201	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:32.201	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:32.201	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:32.201	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:33.089	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:33.089	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:33.089	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:33.089	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:33.090	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:34.258	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:34.258	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:34.258	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:34.258	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:34.258	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:35.336	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:35.336	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:35.336	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:35.336	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:35.336	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:53:36.260	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:53:36.260	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:53:36.260	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:53:36.260	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:53:36.260	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:54:39.396	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:54:39.398	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:54:39.401	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:54:39.401	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:54:39.402	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:55:22.420	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:55:22.422	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:55:22.422	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:55:22.424	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:55:22.424	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:56:08.120	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:56:08.121	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:56:08.122	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:56:08.122	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:56:08.122	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:56:45.441	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:56:45.443	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:56:45.443	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:56:45.443	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:56:45.443	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:57:22.839	info	读取客户端数据 处理	{"data": "eyAgICJzZXEiOiAiMTY0MDYwNzg5OTc0Ny0yODEwNTgiLCAgICJjbWQiOiAicGluZyIsICAgImRhdGEiOiB7fSB9"}
+[application-notebook]2022/01/11 - 17:57:22.841	info	ProcessData 处理数据	{"data": "addr:127.0.0.1:63494 - msg:{   \"seq\": \"1640607899747-281058\",   \"cmd\": \"ping\",   \"data\": {} }"}
+[application-notebook]2022/01/11 - 17:57:22.841	info	ProcessData req	{"data": "cmd:ping - addr:127.0.0.1:63494"}
+[application-notebook]2022/01/11 - 17:57:22.842	info	PingController	{"data": "addr:127.0.0.1:63494 - seq:1640607899747-281058 - msg:{}"}
+[application-notebook]2022/01/11 - 17:57:22.842	info	ProcessData send	{"data": "cmd:ping - addr:127.0.0.1:63494--appId:0 - userId: - code:200"}
+[application-notebook]2022/01/11 - 17:57:53.046	error	读取客户端数据 错误	{"error": "websocket: close 1006 (abnormal closure): unexpected EOF", "data": ""}
+[application-notebook]2022/01/11 - 17:57:53.049	error	读取客户端数据 关闭send	{"data": "Z29yb3V0aW5lIDYgW3J1bm5pbmddOgpydW50aW1lL2RlYnVnLlN0YWNrKDB4MWEsIDB4MCwgMHgwKQoJL3Vzci9sb2NhbC9nby9zcmMvcnVudGltZS9kZWJ1Zy9zdGFjay5nbzoyNCArMHg5ZgpnaXRodWIuY29tL2dvdGVjaGJvb2svYXBwbGljYXRpb24tbm90ZWJvb2svc2VydmVycy93cy4oKkNsaWVudCkucmVhZC5mdW5jMigweGMwMDAwNmUyNDApCgkvVXNlcnMvYm9wZW5nL2NvZGUvZ290ZWNoYm9vay9hcHBsaWNhdGlvbi1ub3RlYm9vay9zZXJ2ZXJzL3dzL2NsaWVudC5nbzo1MCArMHgyNQpnaXRodWIuY29tL2dvdGVjaGJvb2svYXBwbGljYXRpb24tbm90ZWJvb2svc2VydmVycy93cy4oKkNsaWVudCkucmVhZCgweGMwMDAwNmUyNDApCgkvVXNlcnMvYm9wZW5nL2NvZGUvZ290ZWNoYm9vay9hcHBsaWNhdGlvbi1ub3RlYm9vay9zZXJ2ZXJzL3dzL2NsaWVudC5nbzo1NyArMHgxOWIKY3JlYXRlZCBieSBnaXRodWIuY29tL2dvdGVjaGJvb2svYXBwbGljYXRpb24tbm90ZWJvb2svc2VydmVycy93cy53c1BhZ2UKCS9Vc2Vycy9ib3BlbmcvY29kZS9nb3RlY2hib29rL2FwcGxpY2F0aW9uLW5vdGVib29rL3NlcnZlcnMvd3MvaW5pdC5nbzo4MSArMHgyYzcK"}
+[application-notebook]2022/01/11 - 17:57:53.049	info	Client发送数据 关闭连接	{"data": "127.0.0.1:63494"}

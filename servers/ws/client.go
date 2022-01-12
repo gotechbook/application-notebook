@@ -1,6 +1,7 @@
 package ws
 
 import (
+	"context"
 	"runtime/debug"
 
 	"github.com/gorilla/websocket"
@@ -22,6 +23,7 @@ type Client struct {
 	FirstTime     uint64          // 首次连接事件
 	HeartbeatTime uint64          // 用户上次心跳时间
 	LoginTime     uint64          // 登录时间 登录以后才有
+	Ctx           context.Context
 }
 
 // 初始化
@@ -32,6 +34,7 @@ func NewClient(addr string, socket *websocket.Conn, firstTime uint64) *Client {
 		Send:          make(chan []byte, 100),
 		FirstTime:     firstTime,
 		HeartbeatTime: firstTime,
+		Ctx:           context.Background(),
 	}
 }
 
@@ -106,3 +109,16 @@ func (c *Client) Login(appId uint32, userId string, loginTime uint64) {
 	c.Heartbeat(loginTime)
 }
 
+func (c *Client) IsLogin() (isLogin bool) {
+	if c.UserId != "" {
+		isLogin = true
+		return
+	}
+	return
+}
+
+// 读取客户端数据
+func (c *Client) GetKey() (key string) {
+	key = GetUserKey(c.AppId, c.UserId)
+	return
+}

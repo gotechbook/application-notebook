@@ -17,10 +17,10 @@ const (
 )
 
 var (
-	clientManager = NewManager()
+	ClientManager = NewManager()
 	appIds        = []uint32{defaultAppId, 102, 103}
-	serverIp      string
-	serverPort    string
+	ServerIp      string
+	ServerPort    string
 )
 
 func GetAppIds() []uint32 {
@@ -28,11 +28,11 @@ func GetAppIds() []uint32 {
 }
 
 func GetServer() *Server {
-	return NewServer(serverIp, serverPort)
+	return NewServer(ServerIp, ServerPort)
 }
 
 func IsLocal(s *Server) (isLocal bool) {
-	if s.Ip == serverIp && s.Port == serverPort {
+	if s.Ip == ServerIp && s.Port == ServerPort {
 		isLocal = true
 	}
 	return
@@ -53,15 +53,14 @@ func GetDefaultAppId() uint32 {
 }
 
 func StartWebSocket() {
-	serverIp = helper.GetServerIp()
+	ServerIp = helper.GetServerIp()
 	webSocketPort := strconv.FormatInt(int64(config.C.Server.WebSocketPort), 10)
 	rpcPort := config.C.Server.RpcPort
-	serverPort = strconv.FormatInt(int64(rpcPort), 10)
+	ServerPort = strconv.FormatInt(int64(rpcPort), 10)
 	http.HandleFunc("/wss", wsPage)
 	// 添加处理程序
-	go clientManager.start()
-
-	logger.Info("WebSocket 启动程序成功", fmt.Sprintf("%s:%s", serverIp, serverPort))
+	go ClientManager.start()
+	logger.Info("WebSocket 启动程序成功", fmt.Sprintf("%s:%s", ServerIp, webSocketPort))
 	http.ListenAndServe(":"+webSocketPort, nil)
 }
 
@@ -83,5 +82,5 @@ func wsPage(w http.ResponseWriter, req *http.Request) {
 	go client.write()
 
 	// 用户连接事件
-	clientManager.Register <- client
+	ClientManager.Register <- client
 }

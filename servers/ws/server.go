@@ -17,7 +17,7 @@ func NewServer(ip, port string) *Server {
 
 func (s *Server) String() (str string) {
 	if s != nil {
-		return fmt.Sprintf("%s:%s", s.Ip, s.Port)
+		str = fmt.Sprintf("%s:%s", s.Ip, s.Port)
 	}
 	return
 }
@@ -33,4 +33,3 @@ func StringToServer(str string) (server *Server, err error) {
 	}
 	return
 }
-

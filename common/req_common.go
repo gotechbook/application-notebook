@@ -12,3 +12,9 @@ type IdReq struct {
 type HashReq struct {
 	Hash string `json:"hash" form:"hash"` // hash
 }
+
+// 登录请求数据
+type LoginReq struct {
+	AppId  uint32 `json:"appId,omitempty"`
+	UserId string `json:"userId,omitempty"`
+}
