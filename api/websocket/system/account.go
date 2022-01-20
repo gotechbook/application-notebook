@@ -1,4 +1,4 @@
-package websocket
+package system
 
 import (
 	"encoding/json"
@@ -62,5 +62,36 @@ func LoginController(c *ws.Client, seq string, message []byte) (code uint32, msg
 		Client: c,
 	}
 	logger.Info("LoginController 用户登录 成功", fmt.Sprintf("seq:%s - addr:%s - userId:%s", seq, c.Addr, req.UserId))
+	return
+}
+
+func HeartbeatController(c *ws.Client, seq string, message []byte) (code uint32, msg string, data interface{}) {
+	var (
+		currentTime = uint64(time.Now().Unix())
+		userOnline  *ws.UserOnline
+		err         error
+	)
+	data = currentTime
+	if !c.IsLogin() {
+		code = common.NotLoggedIn
+		logger.Error("HeartbeatController 用户未登陆", nil, seq)
+		return
+	}
+	userOnline, err = cache.GetUserOnlineInfo(c.GetKey())
+	if err != nil {
+		code = common.ServerError
+		logger.Error("HeartbeatController GetUserOnlineInfo", err, seq)
+		return
+	}
+
+	c.Heartbeat(currentTime)
+	userOnline.Heartbeat(currentTime)
+	err = cache.SetUserOnlineInfo(c.GetKey(), userOnline)
+	if err != nil {
+		code = common.ServerError
+		logger.Error("HeartbeatController SetUserOnlineInfo", err, seq)
+		return
+	}
+	code = common.OK
 	return
 }

@@ -2,6 +2,7 @@ package common
 
 const (
 	OK                 = 200  // Success
+	NotLoggedIn        = 1000 // 未登录
 	ParameterIllegal   = 1001 // 参数不合法
 	UnauthorizedUserId = 1002 // 非法的用户Id
 	Unauthorized       = 1003 // 未授权
@@ -14,6 +15,7 @@ const (
 func GetCodeMessage(code uint32, msg string) (rst string) {
 	codeMap := map[uint32]string{
 		OK:                 "success",
+		NotLoggedIn:        "NotLoggedIn",
 		RoutingNotExist:    "routingNotExist",    // 路由不存在
 		ParameterIllegal:   "parameterIllegal",   // 参数不合法
 		UnauthorizedUserId: "unauthorizedUserId", // 非法的用户Id
