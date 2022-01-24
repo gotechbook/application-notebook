@@ -12,7 +12,7 @@ doc:
 
 .PHONY: abi
 abi:
-	cd contract && solc --abi *.sol -o ./abi && solc --bin *.sol -o ./abi
+	cd contract &&  solc  --abi *.sol -o ./abi && solc  --bin *.sol -o ./abi
 
 .PHONY: game
 game:
