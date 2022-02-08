@@ -20,150 +20,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc1b4306-b0bd-4b51-aae5-7a02576e8267" name="Default Changelist" comment="block add">
-      <change afterPath="$PROJECT_DIR$/cmd/block/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/access/AccessControl.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/access/AccessControlEnumerable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/access/IAccessControl.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/access/IAccessControlEnumerable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/access/Ownable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/block/block.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/finance/PaymentSplitter.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/finance/VestingWallet.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/Governor.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/IGovernor.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/TimelockController.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/compatibility/GovernorCompatibilityBravo.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/compatibility/IGovernorCompatibilityBravo.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/extensions/GovernorCountingSimple.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/extensions/GovernorProposalThreshold.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/extensions/GovernorSettings.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/extensions/GovernorTimelockCompound.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/extensions/GovernorTimelockControl.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/extensions/GovernorVotes.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/extensions/GovernorVotesComp.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/extensions/GovernorVotesQuorumFraction.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/governance/extensions/IGovernorTimelock.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC1155.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC1155MetadataURI.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC1155Receiver.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC1271.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC1363.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC1363Receiver.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC1363Spender.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC165.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC1820Implementer.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC1820Registry.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC20.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC20Metadata.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC2981.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC3156.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC3156FlashBorrower.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC3156FlashLender.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC721.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC721Enumerable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC721Metadata.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC721Receiver.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC777.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC777Recipient.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/IERC777Sender.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/interfaces/draft-IERC2612.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/map/map.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/metatx/ERC2771Context.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/metatx/MinimalForwarder.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/proxy/Clones.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/proxy/ERC1967/ERC1967Proxy.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/proxy/ERC1967/ERC1967Upgrade.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/proxy/Proxy.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/proxy/beacon/BeaconProxy.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/proxy/beacon/IBeacon.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/proxy/beacon/UpgradeableBeacon.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/proxy/transparent/ProxyAdmin.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/proxy/transparent/TransparentUpgradeableProxy.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/proxy/utils/Initializable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/proxy/utils/UUPSUpgradeable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/security/Pausable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/security/PullPayment.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/security/ReentrancyGuard.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC1155/ERC1155.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC1155/IERC1155.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC1155/IERC1155Receiver.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC1155/extensions/ERC1155Burnable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC1155/extensions/ERC1155Pausable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC1155/extensions/ERC1155Supply.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC1155/extensions/IERC1155MetadataURI.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC1155/presets/ERC1155PresetMinterPauser.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC1155/utils/ERC1155Holder.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC1155/utils/ERC1155Receiver.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/ERC20.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/IERC20.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/extensions/ERC20Burnable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/extensions/ERC20Capped.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/extensions/ERC20FlashMint.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/extensions/ERC20Pausable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/extensions/ERC20Snapshot.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/extensions/ERC20Votes.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/extensions/ERC20VotesComp.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/extensions/ERC20Wrapper.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/extensions/IERC20Metadata.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/extensions/draft-ERC20Permit.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/extensions/draft-IERC20Permit.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/presets/ERC20PresetFixedSupply.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/presets/ERC20PresetMinterPauser.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/utils/SafeERC20.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC20/utils/TokenTimelock.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC721/ERC721.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC721/IERC721.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC721/IERC721Receiver.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC721/extensions/ERC721Burnable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC721/extensions/ERC721Enumerable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC721/extensions/ERC721Pausable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC721/extensions/ERC721URIStorage.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC721/extensions/IERC721Enumerable.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC721/extensions/IERC721Metadata.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC721/presets/ERC721PresetMinterPauserAutoId.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC721/utils/ERC721Holder.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC777/ERC777.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC777/IERC777.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC777/IERC777Recipient.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC777/IERC777Sender.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/ERC777/presets/ERC777PresetFixedSupply.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/token/token.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/Address.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/Arrays.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/Context.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/Counters.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/Create2.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/Multicall.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/StorageSlot.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/Strings.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/Timers.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/cryptography/ECDSA.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/cryptography/MerkleProof.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/cryptography/SignatureChecker.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/cryptography/draft-EIP712.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/escrow/ConditionalEscrow.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/escrow/Escrow.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/escrow/RefundEscrow.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/introspection/ERC165.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/introspection/ERC165Checker.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/introspection/ERC165Storage.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/introspection/ERC1820Implementer.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/introspection/IERC165.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/introspection/IERC1820Implementer.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/introspection/IERC1820Registry.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/math/Math.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/math/SafeCast.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/math/SafeMath.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/math/SignedSafeMath.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/structs/BitMaps.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/structs/EnumerableMap.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/utils/structs/EnumerableSet.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/map.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/map_user.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/nft/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/token/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/Address.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/Address.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/Context.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/Context.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/Counters.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/Counters.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/ERC165.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/ERC165.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/ERC20.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/ERC20.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/ERC721.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/ERC721.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/ERC721URIStorage.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/ERC721URIStorage.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/IERC165.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/IERC165.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/IERC20.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/IERC20.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/IERC20Metadata.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/IERC20Metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/IERC721.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/IERC721.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/IERC721Metadata.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/IERC721Metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/IERC721Receiver.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/IERC721Receiver.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/PixelItem.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/PixelItem.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/PixelToken.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/PixelToken.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/Strings.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/abi/Strings.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/pixel_erc20.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/pixel_erc721.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/eth/eth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ipfs/ipfs_lib.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql/mysql_lib.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/box.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/block/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/map/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/block.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/map.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contract/pixel_erc721.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/token.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contract/pixel_erc20.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="C:\Program Files\Go" />
+  <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -188,26 +92,33 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="23xXnYzW1GgpowFtkQ7rW4CBhRA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/contract" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\code\application-notebook\contract" />
-      <recent name="D:\code\application-notebook\api\websocket\system" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\application-notebook\contract" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="D:\code\application-notebook\contract" />
+      <recent name="D:\code\application-notebook\api\websocket\system" />
     </key>
   </component>
   <component name="RunManager" selected="Makefile.abi">
@@ -233,23 +144,37 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="block add" />
     <option name="LAST_COMMIT_MESSAGE" value="block add" />
   </component>
@@ -261,9 +186,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="752" y="450" key="#GOROOT/0.0.1920.1040@0.0.1920.1040" timestamp="1642676891104" />
-    <state x="697" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642748209227">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="523" y="277" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643104071393">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="523" y="277" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1643104071393" />
     <state x="697" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1642748209227" />
     <state width="1877" height="41" key="GridCell.Tab.0.bottom" timestamp="1642684026841">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -305,5 +231,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1642735726173" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1643099919998">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1643099919998" />
   </component>
 </project>
